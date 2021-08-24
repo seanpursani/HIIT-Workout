@@ -1,0 +1,177 @@
+{
+    "core": {
+        "beginner": [
+            "power skip",
+            "rotational chop",
+            "slam",
+            "toe taps",
+            "bicycle crunch",
+            "flutter kicks",
+            "leg raises",
+            "scissors",
+            "butt-ups",
+            "knee-in and twists",
+            "half leg wipers",
+            "raised leg hold"
+        ],
+        "intermediate": [
+            "power skip",
+            "rotational chop",
+            "slam",
+            "toe taps",
+            "bicycle crunch",
+            "flutter kicks",
+            "leg raises",
+            "scissors",
+            "butt-ups",
+            "knee-in and twists",
+            "half leg wipers",
+            "raised leg hold",
+            "low rotational chop",
+            "diagonal chop",
+            "halo slam",
+            "mountain climber switch",
+            "running mountain climber",
+            "raised leg circles",
+            "plank speed reach"
+        ],
+        "advanced": [
+            "power skip",
+            "rotational chop",
+            "toe taps",
+            "bicycle crunch",
+            "flutter kicks",
+            "leg raises",
+            "scissors",
+            "butt-ups",
+            "knee-in and twists",
+            "half leg wipers",
+            "raised leg hold",
+            "low rotational chop",
+            "diagonal chop",
+            "halo slam",
+            "mountain climber switch",
+            "running mountain climber",
+            "raised leg circles",
+            "plank speed reach",
+            "spider mountain climber",
+            "side to side mountain climber",
+            "diagonal mountain climber",
+            "semi-circle mountain climber",
+            "jumping mountain climber",
+            "plank jack",
+            "push up jack",
+            "break dancer",
+            "donkey kick"
+        ]
+    },
+    "lower body": {
+        "beginner": [
+            "drop squat",
+            "split jump",
+            "skater jump",
+            "reverse lunge",
+            "lunge runner",
+            "squat jumps"
+        ],
+        "intermediate": [
+            "drop squat",
+            "box squat jump",
+            "step up jump",
+            "split jump",
+            "super skater jump",
+            "sprinter skip",
+            "running lunge",
+            "in and out squat",
+            "burpee"
+        ],
+        "advanced": [
+            "long jump to backward hop",
+            "single leg swing",
+            "plyo single-leg alternating hip thrust",
+            "burpee",
+            "drop squat",
+            "box squat jump",
+            "step up jump",
+            "split jump",
+            "super skater jump",
+            "sprinter skip",
+            "running lunge",
+            "in and out squat"
+        ]
+    },
+    "upper body": {
+        "beginner": [
+            "skier swing",
+            "plank hand tap",
+            "push-up",
+            "plank dip",
+            "knee down chest push up"
+        ],
+        "intermediate": [
+            "plank elbow tap",
+            "plank shoulder tap",
+            "plank hip tap",
+            "fast feet on hands",
+            "speed walkout diamond push-up",
+            "one arm push up",
+            "yoga push up"
+        ],
+        "advanced": [
+            "blast off push-up",
+            "plank knee tap",
+            "plank toe tap",
+            "fast feet on hands",
+            "T-rotation",
+            "plank elbow tap",
+            "plank shoulder tap",
+            "plank hip tap",
+            "fast feet on hands",
+            "speed walkout",
+            "diamond push-up",
+            "one arm push up",
+            "yoga push up"
+        ]
+    },
+    "cardio": {
+        "beginner": [
+            "seal jack",
+            "cross body jumping jack",
+            "low box runner",
+            "alternating fast feet",
+            "double fast feet",
+            "front to back hop",
+            "side to side hop",
+            "tuck jump",
+            "high knees",
+            "a-line skips",
+            "side shuffles"
+        ],
+        "intermediate": [
+            "seal jack",
+            "cross body jumping jack",
+            "low box runner",
+            "alternating fast feet",
+            "double fast feet",
+            "front to back hop",
+            "side to side hop",
+            "tuck jump",
+            "high knees",
+            "a-line skips",
+            "side shuffles"
+        ],
+        "advanced": [
+            "seal jack",
+            "cross body jumping jack",
+            "low box runner",
+            "alternating fast feet",
+            "double fast feet",
+            "front to back hop",
+            "side to side hop",
+            "tuck jump",
+            "high knees",
+            "a-line skips",
+            "side shuffles"
+        ]
+    }
+}
