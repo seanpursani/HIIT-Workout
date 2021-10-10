@@ -1,0 +1,1 @@
+This console app creates and performs a custom HIIT workout based on given user information by extracting exercises from a JSON file
